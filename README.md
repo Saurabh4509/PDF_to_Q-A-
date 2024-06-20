@@ -1,1 +1,1 @@
-# PDF_to_Q-A-
+“Hello, my friend! I’ve developed a sophisticated code that generate question-and-answer pairs from PDF books. Essentially, it processes the content within PDF files, leveraging various large language models (LLMs), and generates structured Q&A pairs. This powerful tool can be immensely valuable for automating the creation of study materials, quizzes, or any scenario where extracting information from PDFs is essential.”
